@@ -10,8 +10,8 @@ langchain-google-genai>=0.0.9
 huggingface-hub>=0.20.3
 sentence-transformers>=2.2.2
 
-# PDF and document handling
-PyPDF2>=3.0.1
+# PDF handling
+pypdf>=3.13.0
 pdfminer.six>=20221105
 
 # Google Gemini + environment
