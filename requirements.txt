@@ -6,3 +6,4 @@ langchain-community>=0.0.28
 faiss-cpu>=1.7.4
 tiktoken>=0.5.1
 python-dotenv>=1.0.1
+langchain-google-genai>=0.0.9
