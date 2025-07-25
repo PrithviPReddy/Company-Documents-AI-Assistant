@@ -9,3 +9,4 @@ python-dotenv>=1.0.1
 langchain-google-genai>=0.0.9
 sentence-transformers>=2.2.2
 huggingface-hub>=0.20.3
+pypdf>=3.13.0
